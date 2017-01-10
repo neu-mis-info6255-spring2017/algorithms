@@ -1,8 +1,8 @@
 *.class
 
-.settings/**
-.gradle/**
-gradle/**
+.settings/
+.gradle/
+gradle/
 .project
 .classpath
 
