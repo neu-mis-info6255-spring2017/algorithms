@@ -9,7 +9,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-@DisplayName("Binary Search Tests")
+@DisplayName("Binary Search Tests using JUnit 5")
 public class BinarySearchTest {
 	private int[] values;
 	
