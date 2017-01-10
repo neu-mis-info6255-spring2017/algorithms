@@ -6,6 +6,8 @@ gradle/
 .project
 .classpath
 bin/
+build/
+.DS_Store
 
 # Package Files #
 *.jar
